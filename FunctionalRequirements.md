@@ -1,4 +1,4 @@
-# Functionele eisen
+# Functionele systeemeisen
 
 ### Producten
 * Als administrator wil ik een nieuwe televisie kunnen toevoegen.
